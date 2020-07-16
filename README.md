@@ -15,6 +15,15 @@
 |CD|Continuous Deployment|
 |Repository|Place where the artifacts are stored.|
 
+|Required Tools|
+|----|
+|Jenkins|
+|Git|
+|Maven|
+|Artifactory|
+|ElasticSearch|
+|Logstasj|
+|Kibana|
 
 #### Lets create jenkins vm and setup entrie jenkins environemnt.
 
