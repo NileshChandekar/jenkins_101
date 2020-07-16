@@ -5,7 +5,7 @@
 |Shortname|LongName|
 |----|----|
 |SDLC|Software Development Lifecycle|
-|SCM|Software Confir Managment|
+|SCM|Software Config Managment|
 |ELK|Elastic,Logstash and Kibana|
 |GirFlow|Git Workflow|
 |SSH|Secure Shell|
